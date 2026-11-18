@@ -272,6 +272,17 @@ If one platform fails, the remaining platforms continue publishing.
 The response reports the individual status and error information for each platform, allowing clients to identify successful and failed operations.
 
 
+## ScreenShorts
+
+![alt text](<Screenshot 2026-11-18 at 7.06.40 AM.png>)
+
+![alt text](<Screenshot 2026-11-18 at 7.06.32 AM.png>)
+
+![alt text](<Screenshot 2026-11-18 at 7.06.27 AM.png>)
+
+![alt text](<Screenshot 2026-11-18 at 7.06.18 AM.png>)
+
+![alt text](<Screenshot 2026-11-18 at 7.09.11 AM.png>)
 
 ## Author
 
